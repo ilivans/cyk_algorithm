@@ -1,2 +1,2 @@
 # cyk_algorithm
-CYK (Cocke–Younger–Kasami) algorithm implementation. Written long ago during Formal Languages course at MIPT.
+CYK (Cocke–Younger–Kasami) algorithm implementation. Written in 2014 during Formal Languages course at MIPT.
